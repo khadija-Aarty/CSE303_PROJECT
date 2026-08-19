@@ -1,6 +1,6 @@
 # Sales & Customer Satisfaction — Exploratory Data Analysis
 
-An end-to-end exploratory data analysis (EDA) project on a sales and customer satisfaction dataset, built for **CSE303: Statistics for Data Science**. The analysis compares a **Control** group against a **Treatment** group to understand how an intervention affected sales and customer satisfaction.
+An end-to-end data analysis project on sales and customer satisfaction data, developed for **CSE303: Statistics for Data Science**. The project explores data distributions, descriptive statistics, missing values, correlations, and relationships between variables, with a comparative analysis of **Control** and **Treatment** groups to understand changes in sales and customer satisfaction.
 
 ## What this project does
 
