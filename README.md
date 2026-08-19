@@ -40,4 +40,5 @@ An end-to-end data analysis project on sales and customer satisfaction data, dev
 
 ## Author
 
-Khadija — CSE, 4th Year
+**Khadija Tul Kobra**  
+4th Year CSE Student | Data Science
