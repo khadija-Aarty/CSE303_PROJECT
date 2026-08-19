@@ -36,7 +36,7 @@ An end-to-end data analysis project on sales and customer satisfaction data, dev
    ```
    pip install pandas seaborn matplotlib scikit-learn
    ```
-4. Open `assignment2.ipynb` in Jupyter Notebook / JupyterLab / VS Code and run all cells
+4. Open `Sales_Customer_Satisfaction.ipynb` in Jupyter Notebook / JupyterLab / VS Code and run all cells
 
 ## Author
 
